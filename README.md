@@ -6,9 +6,9 @@ Completed a job simulation focused on On-Premise Sales activities at Red Bull
 |__Account Sales Data for Analysis v2.xlsx
 |__Account Sales Data for Analyis v2 after.xlsx
 
-I'm excited to share the second real-world project in my application-focused data analytics journey! In Series: "Master Data Analytics Roadmap" now I'm structuring my 
+I'm excited to share the second real-world project in my application-focused data analytics journey! In Series: "Master Data Analytics Roadmap"  
 
-Post 6.1.2: "Red Bull On-Premise Sales Job Simulation" by Forage. 
+"Red Bull On-Premise Sales Job Simulation" by Forage. 
 
 In this post, I explore how data analysis is a powerful tool in marketing.By calculating CAGR (Compound Annual Growth Rate) and sorting accounts by performance, I learned: Which bars, restaurants or venues were growing or underperforming. Marketers use this to focus efforts on high-potential clients and fix declining ones.
 

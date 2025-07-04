@@ -2,8 +2,7 @@
 Completed a job simulation focused on On-Premise Sales activities at Red Bull
 
 |__Account Data Analysis Template.pptx
-
-LinkedIn Carousel Description for Post 6.1.2 (PDF version)
+|__Account Sales Data for Analysis v2.xlsx
 
 I'm excited to share the second real-world project in my application-focused data analytics journey! In Series: "Master Data Analytics Roadmap" now I'm structuring my 
 

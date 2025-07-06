@@ -12,6 +12,7 @@ I'm excited to share the second real-world project in my application-focused dat
 
 In this post, I explore how data analysis is a powerful tool in marketing.By calculating CAGR (Compound Annual Growth Rate) and sorting accounts by performance, I learned: Which bars, restaurants or venues were growing or underperforming. Marketers use this to focus efforts on high-potential clients and fix declining ones.
 
+
 I analyzed how different marketing tools (coolers, posters, digital screens) impacted sales. Found that accounts using 2+ promotional tools saw 15–20% better performance. Marketers use this insight to decide where to invest budgets—what promotions work best.
 
 I compared average sales with the number of Red Bull products offered (Regular, Sugar Free, Yellow) and Found that more variety = higher sales. Marketers use this kind of analysis to build product bundling, upselling and menu strategies.

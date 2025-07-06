@@ -29,7 +29,6 @@ Project: "On Premise Sales Virtual Aviator Program - Red Bull" (This project is 
 
 
 🛠️ Key Tasks Completed:
-
 Task 1: Account Data Analysis
          * Total sales by Account Type and Year
          * Sales growth/trends by Account Type

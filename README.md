@@ -42,7 +42,7 @@ Task 2: Overcoming Sales Objections
 * Made Presentation RedBullAccountDataAnalysisBySunilPrajapati.pptx
 * Created Graphs and Columns for Analysis
 
-🔗 This marks the beginnings of Post 6.1 – "Real-World Projects of Data Analytics", where I’ll be sharing practical work from various industries:
+🔗 This marks the beginnings of "Real-World Projects of Data Analytics", where I’ll be sharing practical work from various industries:
 Marketing, Education, Healthcare, Manufacturing, Transportation and more.
 
 🔗 Explore the complete project on GitHub: https://github.com/sunilprajapati832/OnPremiseSalesVirtualAviatorProgram-RedBull

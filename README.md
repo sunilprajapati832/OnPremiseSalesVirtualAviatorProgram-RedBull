@@ -39,7 +39,6 @@ Task 1: Account Data Analysis
 
 Task 2: Overcoming Sales Objections
 
-
 * Made clean datasets like AccountSalesDataforAnalysisv2after.xlxs
 * Made Presentation RedBullAccountDataAnalysisBySunilPrajapati.pptx
 * Created Graphs and Columns for Analysis

@@ -52,7 +52,7 @@ Looking forward to connecting with fellow analysts, mentors and recruiters who v
 Stay tuned for 6.1.3 – Next Analytics Project! 📈
 Follow the series to see how each skill gets applied in real-world settings.
 
-#DataAnalytics #RedBull #MarketingAnalytics #Excel #ObjectionHandling #SalesStrategy #ForageExperience #RealWorldProjects #PowerBI 
+#DataAnalytics #RedBull #MarketingAnalytics #Excel #ObjectionHandling #SalesStrategy #ForageExperience #PowerBI 
 
 
 

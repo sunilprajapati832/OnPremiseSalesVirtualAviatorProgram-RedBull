@@ -21,6 +21,8 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 * Effect of assortment (product lines) presence on sales
 * Effectiveness of the different marketing/promotion programs
 
+![Queries_Preview](Queries.png)
+
 ### Task 2: Overcoming Sales Objections
 * Made clean datasets like AccountSalesDataforAnalysisv2after.xlxs
 * Made Presentation RedBullAccountDataAnalysisBySunilPrajapati.pptx

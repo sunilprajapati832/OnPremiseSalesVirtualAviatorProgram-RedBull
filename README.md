@@ -25,6 +25,9 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 * Made clean datasets like AccountSalesDataforAnalysisv2after.xlxs
 * Made Presentation RedBullAccountDataAnalysisBySunilPrajapati.pptx
 * Created Graphs and Columns for Analysis
+
+![Graph_Preview](Graphs.png)
+
   
 
 ## 📂 Project Files

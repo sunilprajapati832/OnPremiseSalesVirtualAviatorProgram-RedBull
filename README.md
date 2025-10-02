@@ -26,11 +26,6 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 * Made Presentation RedBullAccountDataAnalysisBySunilPrajapati.pptx
 * Created Graphs and Columns for Analysis
   
-Completed a job simulation focused on On-Premise Sales activities at Red Bull
-
-|__Account Data Analysis Template.pptx
-|__Account Sales Data for Analysis v2.xlsx
-|__Account Sales Data for Analyis v2 after.xlsx
 
 
 
@@ -40,20 +35,7 @@ Completed a job simulation focused on On-Premise Sales activities at Red Bull
 
 
 
-🛠️ Key Tasks Completed:
 
-
-🔗 This marks the beginnings of "Real-World Projects of Data Analytics", where I’ll be sharing practical work from various industries:
-Marketing, Education, Healthcare, Manufacturing, Transportation and more.
-
-🔗 Explore the complete project on GitHub: https://github.com/sunilprajapati832/OnPremiseSalesVirtualAviatorProgram-RedBull
-
-Looking forward to connecting with fellow analysts, mentors and recruiters who value real-world, results-driven analytics!
-
-Stay tuned for 6.1.3 – Next Analytics Project! 📈
-Follow the series to see how each skill gets applied in real-world settings.
-
-#DataAnalytics #RedBull #MarketingAnalytics #Excel #ObjectionHandling #SalesStrategy #PowerBI 
 
 
 

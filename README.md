@@ -1,4 +1,5 @@
-# Project: "On Premise Sales Virtual Aviator Program - Red Bull" (This project is based on a real-world job simulation by Red Bull and Forage, where I acted as an On-Premise Sales Specialist to analyze sales data, evaluate marketing impact and handle customer objections using data-driven strategies)
+# Project: "On Premise Sales Virtual Aviator Program - Red Bull" 
+(This project is based on a real-world job simulation by Red Bull and Forage, where I acted as an On-Premise Sales Specialist to analyze sales data, evaluate marketing impact and handle customer objections using data-driven strategies)
 
 ## Domain: Marketing | Sales | Retail and Consumer Behavior | Customer Relationship Management (CRM) & Retention | Business Intelligence & Reporting |  Strategic Decision-Making | Sales Enablement & Communication | Operations | Pricing Strategy
 

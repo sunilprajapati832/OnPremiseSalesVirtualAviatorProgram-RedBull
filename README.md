@@ -30,7 +30,12 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 
 ![Graph_Preview](Graphs.png)
 
-  
+## Skills Demonstrated
+* Data Analytics with Excel – Cleaning, transforming and analyzing structured data
+* Business Intelligence & Reporting – Charts, tables, dashboards and storytelling
+* Sales & Marketing Strategy – Growth analysis, promotions impact, product assortment insights
+* Communication & Objection Handling – Translating analytics into persuasive business arguments
+* Domain Knowledge – Marketing, Retail, CRM, Customer Retention, Pricing Strategy
 
 ## 📂 Project Files
 |__ Account Sales Data for Analysis v2.xlsx

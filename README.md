@@ -27,8 +27,14 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 * Created Graphs and Columns for Analysis
   
 
-
-
+## 📂 Project Files
+|__ Account Sales Data for Analysis v2.xlsx
+|__ Account Sales Data for Analysis v2 after.xlsx
+|__ Account Data Analysis Template.pptx
+|__ Graphs.png
+|__ Queries.png
+|__ README.md
+|__ RedBullAccountDataAnalysisBySunilPrajapati.pptx
 
 
 

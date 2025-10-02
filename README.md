@@ -1,24 +1,24 @@
 # OnPremiseSalesVirtualAviatorProgram-RedBull
 
+## Domain: Marketing Analytics | Sales Strategy | Business Intelligence
+
+This project is part of my "Master Data Analytics Roadmap" series and represents the second real-world analytics project in my journey. I completed the Red Bull On-Premise Sales Job Simulation via Forage, acting as an On-Premise Sales Specialist. The project demonstrates how data analytics empowers marketing and sales decisions, transforming raw sales data into actionable insights and strategies.
+
+In this post, 
+* I explore how data analysis is a powerful tool in marketing by calculating CAGR (Compound Annual Growth Rate) and sorting accounts by performance, I learned: Which bars, restaurants or venues were growing or underperforming. Marketers use this to focus efforts on high-potential clients and fix declining ones.
+* I analyzed how different marketing tools (coolers, posters, digital screens) impacted sales. Found that accounts using 2+ promotional tools saw 15–20% better performance. Marketers use this insight to decide where to invest budgets—what promotions work best.
+* I compared average sales with the number of Red Bull products offered (Regular, Sugar Free, Yellow) and Found that more variety = higher sales. Marketers use this kind of analysis to build product bundling, upselling and menu strategies.
+* I didn’t just stop at data—you listened to customer objections (Bar 7 case) and used data + soft skills to reframe objections and pitch solutions. Modern marketing isn't just numbers—it's about understanding people and using insights to guide them.
+* I converted raw Excel data into charts, tables and a clear business presentation. Marketers must tell stories with numbers: Why are sales dropping? What’s working? What should we try next?
+
 Completed a job simulation focused on On-Premise Sales activities at Red Bull
 
 |__Account Data Analysis Template.pptx
 |__Account Sales Data for Analysis v2.xlsx
 |__Account Sales Data for Analyis v2 after.xlsx
 
-I'm excited to share the second real-world project in my application-focused data analytics journey! In Series: "Master Data Analytics Roadmap"  
 
-"Red Bull On-Premise Sales Job Simulation" by Forage. 
 
-In this post, I explore how data analysis is a powerful tool in marketing.By calculating CAGR (Compound Annual Growth Rate) and sorting accounts by performance, I learned: Which bars, restaurants or venues were growing or underperforming. Marketers use this to focus efforts on high-potential clients and fix declining ones.
-
-I analyzed how different marketing tools (coolers, posters, digital screens) impacted sales. Found that accounts using 2+ promotional tools saw 15–20% better performance. Marketers use this insight to decide where to invest budgets—what promotions work best.
-
-I compared average sales with the number of Red Bull products offered (Regular, Sugar Free, Yellow) and Found that more variety = higher sales. Marketers use this kind of analysis to build product bundling, upselling and menu strategies.
-
-I didn’t just stop at data—you listened to customer objections (Bar 7 case) and used data + soft skills to reframe objections and pitch solutions. Modern marketing isn't just numbers—it's about understanding people and using insights to guide them.
-
-I converted raw Excel data into charts, tables and a clear business presentation. Marketers must tell stories with numbers: Why are sales dropping? What’s working? What should we try next?
 
 Marketing isn’t just creative—it’s strategic And strategy needs data.
 This project proves that data analysts can drive smarter marketing decisions, spot patterns and help brands grow intelligently.

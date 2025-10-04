@@ -35,7 +35,7 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 ![Slide 1](PPT_Slides/1_ppt_slide.png)  
 ![Slide 2](PPT_Slides/2_ppt_slide.png)  
 ![Slide 3](PPT_Slides/3_ppt_slide.png)
-![Slide 4](assets/slide3.png)
+![Slide 4](PPT_Slides/4_ppt_slide.png)
 ![Slide 5](assets/slide3.png)
 ![Slide 6](assets/slide3.png)
 ![Slide 7](assets/slide3.png)

@@ -40,7 +40,7 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 ![Slide 6](PPT_Slides/6_ppt_slide.png)
 ![Slide 7](PPT_Slides/7_ppt_slide.png)
 ![Slide 8](PPT_Slides/8_ppt_slide.png
-![Slide 7](PPT_Slides/7_ppt_slide.png)
+![Slide 9](PPT_Slides/9_ppt_slide.png)
 
 ## Skills Demonstrated
 * Data Analytics with Excel – Cleaning, transforming and analyzing structured data

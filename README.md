@@ -56,6 +56,7 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 * Demonstrated how data analytics supports smarter marketing decisions
 
 ## Project Files
+|__ PPT_Slides (Folder)
 |__ Account Sales Data for Analysis v2.xlsx
 |__ Account Sales Data for Analysis v2 after.xlsx
 |__ Account Data Analysis Template.pptx

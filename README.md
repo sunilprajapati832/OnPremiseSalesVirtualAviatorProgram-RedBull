@@ -65,10 +65,12 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 |__ README.md
 |__ RedBullAccountDataAnalysisBySunilPrajapati.pptx
 
+## 🤝 Connect with Me  
 
+If you found this project interesting, let’s connect!  
 
-
-
+🔗 [Follow me on LinkedIn](www.linkedin.com/in/sunil-prajapati832)  
+⭐ Don’t forget to star this repo if it helped you!  
 
 
 

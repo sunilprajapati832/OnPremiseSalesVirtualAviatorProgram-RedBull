@@ -69,10 +69,4 @@ Marketing isn’t just creative—it’s strategic And strategy needs data. This
 If you found this project interesting, let’s connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832)  
- 
-
-
-
-
-
 
